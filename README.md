@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freedenislanser
-- 👀 I’m interested in freelancing and cryptocurrency
+- 👀 I’m interested in programming and cryptocurrencies
 - 🌱 I’m currently learning javascript and php
 - 💞️ I’m looking to collaborate here
 - 📫 contact me here
